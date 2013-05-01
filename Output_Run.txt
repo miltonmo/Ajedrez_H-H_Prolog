@@ -1,0 +1,5 @@
+?- ajedrez.
+
+         ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
+ERROR: cuadro/2: Undefined procedure: ifthen/2
+   Exception: (32) cuadro([9, 1], -4) ?

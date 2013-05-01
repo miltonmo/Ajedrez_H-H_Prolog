@@ -1,0 +1,24 @@
+R E S U M E N    A C T I V I D A D E S :
+0.- Identado de codigo.
+1.- Renombrado de todas las clausulas pieza/5 a piezaM/5
+2.- Sustitución de todos los argumentos $o$ y $-$ por "o" y "-" respectivamente
+
+
+A N O T A C I O N E S :
+** Al ejecutar
+**	?- ajedrez.
+** Aparecen impresos los sig. caracteres:
+**	         ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
+**
+** Seguido de un mensaje de error:	
+**	ERROR: cuadro/2: Undefined procedure: ifthen/2
+**	   Exception: (32) cuadro([9, 1], -4) ?
+** en este punto no se que hacer.
+** lo de los caracteres "Ü" es acausa de que en (creo) trata de imprimirse el borde superior del tablero
+** el objetivo "put(220)" imprime este caracter "Ü" esto porque SWI-Prolog utiliza en linux ISO 8859-1
+** en lugar de ASCII extendido como originalmente fue hecho el codigo.
+**
+** Desconosco si en SWI-Prolog para Windows o MAC utilisen ASCII extendido u Otra codificación de caracteres.
+** Por el momento se me ocurre reemplazar el codigo 220 en put por el caracter ⬛ (cuadro negro) o ⬜ (cuadro blanco)
+** u otros permisibles tanto para linux como para windows, MAC, etc...
+** 

@@ -1,0 +1,43 @@
+Description							Resource		Path			Location	Type
+Clauses of enroquecorto/3 are not together in the source-file	AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 107	Problem
+Clauses of enroquelargo/3 are not together in the source-file	AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 97		Problem
+Clauses of piezaM/5 are not together in the source-file		AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 225	Problem
+Clauses of piezaM/5 are not together in the source-file		AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 245	Problem
+Clauses of piezaM/5 are not together in the source-file		AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 263	Problem
+Clauses of piezaM/5 are not together in the source-file		AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 293	Problem
+Clauses of piezaM/5 are not together in the source-file		AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 399	Problem
+Clauses of piezaM/5 are not together in the source-file		AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 418	Problem
+Clauses of piezaM/5 are not together in the source-file		AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 435	Problem
+Clauses of piezaM/5 are not together in the source-file		AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 464	Problem
+Singleton variables: [A]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 707	Problem
+Singleton variables: [A]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 711	Problem
+Singleton variables: [A1,A]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 718	Problem
+Singleton variables: [A1,A2,A3,A4,A5]				AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 78		Problem
+Singleton variables: [A1,A2,A3,A4,A5]				AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 97		Problem
+Singleton variables: [A1,A2,A3,A4]				AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 88		Problem
+Singleton variables: [A1,A2,A3,A4]				AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 107	Problem
+Singleton variables: [Cf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 256	Problem
+Singleton variables: [Cf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 259	Problem
+Singleton variables: [Cf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 277	Problem
+Singleton variables: [Cf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 289	Problem
+Singleton variables: [Cf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 428	Problem
+Singleton variables: [Cf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 431	Problem
+Singleton variables: [Cf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 448	Problem
+Singleton variables: [Cf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 460	Problem
+Singleton variables: [L]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 670	Problem
+Singleton variables: [P]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 55		Problem
+Singleton variables: [P]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 701	Problem
+Singleton variables: [R]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 739	Problem
+Singleton variables: [Ren1,Col1,Ren2,Col2]			AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 60		Problem
+Singleton variables: [Rf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 250	Problem
+Singleton variables: [Rf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 253	Problem
+Singleton variables: [Rf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 271	Problem
+Singleton variables: [Rf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 283	Problem
+Singleton variables: [Rf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 422	Problem
+Singleton variables: [Rf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 425	Problem
+Singleton variables: [Rf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 442	Problem
+Singleton variables: [Rf]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 454	Problem
+Singleton variables: [X]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 21		Problem
+Singleton variables: [X2,Y2,V2]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 740	Problem
+Singleton variables: [Y]					AjedrezEntreDos.pl	/Prendiendo_PROLOG/src	line 671	Problem
+
